@@ -9,7 +9,7 @@ def convert_pdt_tostr(dt):
     return dt.strftime('%Y-%m-%d')
 
 list_keyword = ['plant based meat', 'plant based food', 'impossible food', 'impossible meat', 'beyond meat', 'alternative protein']
-keyword = 'beyond meat'
+keyword = 'alternative protein'
 
 metadata = {}
 
